@@ -1,2 +1,3 @@
 hello git!
-hello second!
+hello second! 
+hot fix first
